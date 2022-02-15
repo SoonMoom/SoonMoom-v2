@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{D282131F-FA5A-47DA-809E-CFFF58B73967}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoonMoomEngine", "SoonMoomEngine\SoonMoomEngine.vcxproj", "{528BD49A-9F3D-4C7C-A8FB-E1A31E1EE803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528BD49A-9F3D-4C7C-A8FB-E1A31E1EE803}.Debug|x64.ActiveCfg = Debug|x64
+		{528BD49A-9F3D-4C7C-A8FB-E1A31E1EE803}.Debug|x64.Build.0 = Debug|x64
+		{528BD49A-9F3D-4C7C-A8FB-E1A31E1EE803}.Release|x64.ActiveCfg = Release|x64
+		{528BD49A-9F3D-4C7C-A8FB-E1A31E1EE803}.Release|x64.Build.0 = Release|x64
+		{D282131F-FA5A-47DA-809E-CFFF58B73967}.Debug|x64.ActiveCfg = Debug|x64
+		{D282131F-FA5A-47DA-809E-CFFF58B73967}.Debug|x64.Build.0 = Debug|x64
+		{D282131F-FA5A-47DA-809E-CFFF58B73967}.Release|x64.ActiveCfg = Release|x64
+		{D282131F-FA5A-47DA-809E-CFFF58B73967}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D3C0584-453A-49E2-87C6-5F17C249B295}
+	EndGlobalSection
+EndGlobal
